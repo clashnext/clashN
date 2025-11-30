@@ -1,9 +1,10 @@
 # clashN 下载软件教程分享
 
+<br>
 <div align="center">
   <img width="150" height="150" alt="clashN" src="https://github.com/user-attachments/assets/eb238201-b4ca-4488-b336-e431541df4c9" />
-
 </div>
+<br>
 
 ## :memo: clashN 节点资源
 
